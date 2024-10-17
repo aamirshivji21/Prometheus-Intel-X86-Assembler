@@ -63,4 +63,4 @@ This project is currently in active development, based on my ongoing reflections
 
 * **Learning:** Through this process, I’ve deepened my understanding of Intel x86 architecture, memory segmentation and fundamentals of compiler and assembler design. I've also grown more comfortable with C programming, particularly with low-level system programming.
 
-* **Recommended:** * Progress will be a lot quicker if you come in with more background knowledge. I definitely recommend having already taken COMP273. My own progress was slower because I began this project without this course knowledge. (It is still very doable without the course! Just some extra learning)
+
