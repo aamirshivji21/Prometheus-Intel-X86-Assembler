@@ -45,6 +45,9 @@ This command takes an assembly file as input and generates an OBJ2 binary file.
 
 *OBJ2 is a custom format for this project. Standard ways to view the output file such as using objdump don't currently work. If you want to confirm that an instruction is properly translated, you can print out the data segment to verify the output.* 
 
+# NOTE
+**The text that follows is there for the lab member who takes over. It is essentially the direction I would have kept going in if I had more time. However, my implementation is very repetative and A LOT of improvement can be made. If you come across this project and feel like you have any contributions to make, please do so! (In a separate branch of course)**
+
 
 ## Roadmap
 
